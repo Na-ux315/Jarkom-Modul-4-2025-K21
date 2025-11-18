@@ -42,3 +42,15 @@ Step 2:
 1. Di VLSM kurang lebih sama isinya seperti Step 1 (Subnet & Netmask)
 2. Untuk kelompok kami IP Prefix nya `10.74.0.0`. Jadi untuk menghitung bisa menggunakan pohon dari subnet besar memiliki NID 10.74.0.0 dengan netmask /22
 3. Kita melakukan subnetting dengan menggunakan pohon tersebut untuk pembagian IP sesuai dengan kebutuhan masing-masing subnet yang ada.
+
+## CIDR
+
+Step 1:
+<img width="1093" height="482" alt="image" src="https://github.com/user-attachments/assets/e196f090-f781-4ea7-897d-718b4e99892c" />
+
+<img width="1234" height="326" alt="image" src="https://github.com/user-attachments/assets/53f5d4c0-ee02-47e2-973b-75e11d907579" />
+
+<img width="1040" height="231" alt="image" src="https://github.com/user-attachments/assets/9adef8d7-d73f-47c0-aa23-fc1d98e5ca7a" />
+1. Kita menentukan subnet yang ada dalam topologi dan lakukan labelling (seperti kasih lingkaran²) netmask terhadap masing-masing subnet
+2. Terus gabungkan subnet paling bawah di dalam topologi
+3. Setelah menggabungkan subnet, akhirnya dapat sebuah subnet besar dengan netmask /19.
