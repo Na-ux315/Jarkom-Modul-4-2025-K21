@@ -10,9 +10,9 @@ Member :
 
 </div>
 
-- [Topologi](#question-topologi)
-- [Question 1](#question-1)
-- [Question 2](#question-2)
+- [Topologi](#topologi)
+- [VLSM](#VLSM)
+- [CIDR](#CIDR)
 
 ## Topologi
 
@@ -21,3 +21,14 @@ Cisco Packet Tracer
 
 GNS3
 <img width="1919" height="852" alt="image" src="https://github.com/user-attachments/assets/5512b3f3-53da-4657-8212-557353e9d33b" />
+
+## VLSM
+
+Step 1:
+<img width="1048" height="603" alt="Screenshot 2025-11-18 010425" src="https://github.com/user-attachments/assets/0510225f-fd1e-407c-9b89-242dc26ce834" />
+
+Pohon VLSM
+![WhatsApp Image 2025-11-18 at 09 13 56_13ebfabc](https://github.com/user-attachments/assets/7a627ce8-4950-48b2-b998-be69b7ba0a95)
+
+Step 2:
+<img width="808" height="579" alt="Screenshot 2025-11-18 073303" src="https://github.com/user-attachments/assets/c9d13a29-0a19-428e-a17b-b6411f181d58" />
