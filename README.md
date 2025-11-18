@@ -57,9 +57,6 @@ Step 1:
 
 3. Setelah menggabungkan subnet, akhirnya dapat sebuah subnet besar dengan netmask /19
 
-Pohon CIDR
-
-
 Step 2:
 <img width="947" height="576" alt="image" src="https://github.com/user-attachments/assets/ecf48c85-8b34-4b7f-b4f5-513f18aac11d" />
-1. Dengan pohon itu kita menghitung pembagian IP berdasarkan penggabungan subnet yang telah dilakukan
+1. Dengan pohon kita menghitung pembagian IP berdasarkan penggabungan subnet yang telah dilakukan
