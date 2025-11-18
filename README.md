@@ -61,3 +61,4 @@ Pohon CIDR
 
 
 Step 2:
+1. Dengan pohon itu kita menghitung pembagian IP berdasarkan penggabungan subnet yang telah dilakukan
