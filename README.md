@@ -51,8 +51,6 @@ Step 1:
 <img width="1234" height="326" alt="image" src="https://github.com/user-attachments/assets/53f5d4c0-ee02-47e2-973b-75e11d907579" />
 
 <img width="1040" height="231" alt="image" src="https://github.com/user-attachments/assets/9adef8d7-d73f-47c0-aa23-fc1d98e5ca7a" />
-1. Kita menentukan subnet yang ada dalam topologi dan lakukan labelling (seperti kasing lingkaran²) terhadap masing-masing subnet.
-
-2. Terus gabungkan subnet paling bawah di dalam topologi.
-
-3. Setelah menggabungkan subnet, akhirnya dapat sebuah subnet besar dengan netmask /19.
+1. Kita menentukan subnet yang ada dalam topologi dan lakukan labelling (seperti kasing lingkaran²) terhadap masing-masing subnet
+2. Terus gabungkan subnet paling bawah di dalam topologi
+3. Setelah menggabungkan subnet, akhirnya dapat sebuah subnet besar dengan netmask /19
